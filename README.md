@@ -1,38 +1,41 @@
 # Personalised_Medical_Expenses
 
-* `Premise` :
-- Medicine cost expenses refer to the financial burden individuals incur when purchasing medications for treatment of different medical conditions. These expenses encompass the costs of prescription drugs, over-the-counter medications, and other supplementary medications. The impact of medicine cost expenses on people's lives can be significant and multi-faceted. So it is essential for individuals to assess their medical expenses and optimize their lifestyle and healthcare costs accordingly.
+## `Premise` :
+> Medicine cost expenses refer to the financial burden individuals incur when purchasing medications for treatment of different medical conditions. These expenses encompass the costs of prescription drugs, over-the-counter medications, and other supplementary medications. The impact of medicine cost expenses on people's lives can be significant and multi-faceted. So it is essential for individuals to assess their medical expenses and optimize their lifestyle and healthcare costs accordingly.
 
 
 
-## Introduction about the Dataset :
+## `About the Data` :
 
-> "The dataset has been carefully curated based on a combination of personal experiences and real-life interactions. It comprises data collected from diverse individuals of varying ages, each with different medical conditions, and their corresponding average medical expenses. The selection process involved identifying the most prevalent medical conditions encountered by people. To ensure accuracy, I employed web scraping to gather information on the top medications available for each specific medical condition from one website, and I also retrieved the prices of these medications from another website. By incorporating this data into the dataset, I aimed to create a comprehensive and reliable resource for medical expenses analysis and prediction."
+- "The dataset has been carefully curated based on a combination of personal experiences and real-life interactions. It comprises data collected from diverse individuals of varying ages, each with different medical conditions, and their corresponding average medical expenses. The selection process involved identifying the most prevalent medical conditions encountered by people. To ensure accuracy, I employed web scraping to gather information on the top medications available for each specific medical condition from one website, and I also retrieved the prices of these medications from another website. By incorporating this data into the dataset, I aimed to create a comprehensive and reliable resource for medical expenses analysis and prediction."
 
-### About the Data in the dataset
+![image](https://github.com/raviteja-padala/Personalised_Medical_Expenses/blob/main/screenshots/med-pr2.png)
+
+
+### `About the dataset`
 
 * "The dataset consists of 11 independent variables, including Age, Gender, Cold, Cough, Fever, BP, Diabetes, Thyroid, Arthritis, Acidity, and Others, representing various medical conditions. With the exception of the Age and Gender columns, all other independent variables are represented by boolean values, indicating the presence or absence of the respective medical condition.
 
 * The target variable of interest in this dataset is labeled as 'Expense'. This column contains data on the expenses incurred by individuals for different medical conditions."
 
 
-## Description
-The aim of this project to predict Medicine price depending on the given medical conditions.
+## `Description`
+The aim of this project to predict Medical expenses depending on the given medical conditions.
 
 
-## Tech Stack Used
+## `Tech Stack Used`
 1. Python 
 2. FlaskAPI 
 3. Machine learning
 4. HTML 
 
-## Infrastructure Required.
+## `Infrastructure Required`
 1. VS Code (you can use any other IDE)
 2. GIT
 3. GITHUB
 4. GIT ACTIONS
 
-## How to run?
+## `How to run?`
 This app is now available for offline run as well as Deployed on AWS Beanstalk.
 
 
@@ -59,22 +62,17 @@ pip install -r requirements.txt
 ```
 
 
-## Web Application Home Page
-![image](https://github.com/raviteja-padala/Medicine_price_scrap-compare/blob/main/project%20images/med%20homepage.png)
-
-## Result Page
-![image](https://github.com/raviteja-padala/Medicine_price_scrap-compare/blob/main/project%20images/price%20page.png)
+## `Web Application Home Page`
+![image](https://github.com/raviteja-padala/Personalised_Medical_Expenses/blob/main/screenshots/medpreddata.png)
 
 
-
-
-# AWS Deployment Link :
+## AWS Deployment Link :
 
 AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
 
 
 
-# Approach for the Project
+### Approach for the Project
 
 1. Data Ingestion:
    - In the Data Ingestion phase, the data is read as a CSV file.
@@ -107,18 +105,20 @@ By following this approach, we aim to create an efficient and user-friendly mode
 
 
 
-# Exploratory Data Analysis Notebook
+### Exploratory Data Analysis Notebook
 
 Link : [EDA Notebook](notebooks\1_EDA_of_Med_Expenses.ipynb)
 
-# Model Training Approach Notebook
+### Model Training Approach Notebook
 
 Link : [Model Training Notebook](notebooks\2_Model_training_on_Med_Exp_data.ipynb)
 
 
 
-* Conclusion:
+#  `Conclusion:`
 > Addressing medicine cost expenses requires a multi-faceted approach, involving handling and managing health conditions. Solutions may include advocating for affordable drug pricing, expanding healthcare coverage, promoting generic medications, and investing in preventive measures to reduce the need for costly treatments. By addressing these challenges, we can work towards ensuring that access to essential medications is more equitable and that the burden of medicine cost expenses is alleviated for self, other individuals and communities.
+<br>
 
-Stay Healthy, Stay Happy.
+<br>
+Stay Healthy, Stay Happy. <br>
 Thank you.
