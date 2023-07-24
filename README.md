@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ## AWS Deployment Link :
 
-AWS Elastic Beanstalk link : [http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceutkarshgaikwad-env.eba-7zp3wapg.ap-south-1.elasticbeanstalk.com/)
+AWS Elastic Beanstalk link : [Elastic Beanstalk link](http://medicalexpenseprediction-env.eba-kwg8aq5x.us-east-1.elasticbeanstalk.com/predictdata)
 
 
 
