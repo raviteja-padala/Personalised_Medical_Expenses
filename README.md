@@ -107,11 +107,11 @@ By following this approach, we aim to create an efficient and user-friendly mode
 
 ### Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook](notebooks\1_EDA_of_Med_Expenses.ipynb)
+Link : [EDA Notebook](https://github.com/raviteja-padala/Personalised_Medical_Expenses/blob/main/notebooks/2_EDA_of_Med_Expenses.ipynb)
 
 ### Model Training Approach Notebook
 
-Link : [Model Training Notebook](notebooks\2_Model_training_on_Med_Exp_data.ipynb)
+Link : [Model Training Notebook](https://github.com/raviteja-padala/Personalised_Medical_Expenses/blob/main/notebooks/3_Model_training_on_Med_Exp_data.ipynb)
 
 
 
