@@ -27,7 +27,7 @@ class DataIngestion:
     def initiate_data_ingestion(self):
         logging.info("Entered the data ingestion method or component")
         try:
-            df=pd.read_csv(r'C:\Users\Lenovo\Desktop\Personalised_Medical_Expenses\med_exp.csv')
+            df=pd.read_csv(r'C:\Users\Lenovo\Desktop\Personalised_Medical_Expenses\notebooks\med_exp.csv')
             
             logging.info('Read the dataset as dataframe')
 
@@ -61,7 +61,7 @@ if __name__=="__main__":
 
 
     data_transformation=DataTransformation()
-    #data_transformation.initiate_data_transformation(train_data,test_data)
+    #git data_transformation.initiate_data_transformation(train_data,test_data)
     train_arr,test_arr,_=data_transformation.initiate_data_transformation(train_data,test_data)
     print("Data Transformation done")
 
