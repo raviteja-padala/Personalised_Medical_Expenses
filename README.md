@@ -63,10 +63,11 @@ pip install -r requirements.txt
 
 
 ## `Web Application Home Page`
-![image](https://github.com/raviteja-padala/Personalised_Medical_Expenses/blob/main/screenshots/medpreddata.png)
+![image](https://github.com/raviteja-padala/Personalised_Medical_Expenses/blob/main/screenshots/awsmed.png)
 
 
-## AWS Deployment Link :
+
+## `AWS Deployment Link` :
 
 AWS Elastic Beanstalk link : [Elastic Beanstalk link](http://medicalexpenseprediction-env.eba-kwg8aq5x.us-east-1.elasticbeanstalk.com/predictdata)
 
