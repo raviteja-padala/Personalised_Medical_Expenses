@@ -1,5 +1,25 @@
 # Personalised_Medical_Expenses
 
+
+
+## 1.`Project Name` : 
+* "Personalised Medical Expenses"
+
+## 2.`Project Description`: 
+* "Estimation of expenses arising from purchasing medicine."
+
+## 3.`Problem statement` : 
+* "The project aims to develop a comprehensive system for estimating the expenses incurred due to purchasing medicine. This involves analyzing various medical purchases and transactions to predict costs related to medication."
+
+
+## 4.`Business Need` : 
+* "The estimation of medical expenses is crucial for individuals, healthcare providers, and insurance companies alike. By having a system in place, individuals can better manage their healthcare budgets, healthcare providers can optimize their pricing and services, and insurance companies can offer more tailored coverage options."
+
+## 5.`Deliverables or Project Scope` : 
+* Development of a user-friendly application capable of analyzing medicine purchases and Implementation of algorithms to calculate the estimated cost based on medical condition.
+
+
+
 ## `Premise` :
 > Medicine cost expenses refer to the financial burden individuals incur when purchasing medications for treatment of different medical conditions. These expenses encompass the costs of prescription drugs, over-the-counter medications, and other supplementary medications. The impact of medicine cost expenses on people's lives can be significant and multi-faceted. So it is essential for individuals to assess their medical expenses and optimize their lifestyle and healthcare costs accordingly.
 
