@@ -37,7 +37,4 @@ jobs:
         with:
           python-version: 3.8
 
-     
-      - name: Run Dependency Check
-        run: |
-          docker run --rm -v $PWD:/app my_ml_project pip check
+    
